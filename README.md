@@ -1,7 +1,7 @@
 # Hi 👋, I'm Gustavo Douglas
 
 🚀 **Software Engineer | HTML5 CSS3 JavaScript &python**  
-🇧🇷 Brazil
+🇧🇷 Brasileiro
 
 ---
 
