@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Software Engineer • Back-end Developer
+  Software Engineer • Full-Stack Developer / Editor de Conteúdo - Designer UI/UX 
 </h3>
 
 <p align="center">
@@ -91,21 +91,14 @@
 
 # 🚀 Projetos em Destaque
 
-### 🚌 Sistema de Gerenciamento de Transporte
-Sistema completo para gestão de transporte escolar com rotas, motoristas e relatórios.
 
-### 💼 Plataforma de Estágios
-Sistema para conexão entre estudantes e empresas.
-
-### 🔐 API REST com Node.js
-API RESTful com autenticação JWT e PostgreSQL.
 
 ---
 
 # 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Intermediário
+- 🇺🇸 Inglês — Básico
 
 ---
 
