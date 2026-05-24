@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack;Focado+em+IoT+e+Sistemas+Web;Node.js+%7C+Laravel+%7C+React;Editor+AudioVisual;Bem+Vindo!+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack;Entusiasta+em+Automação+IoT+e+Sistemas+Web;Python+%7C+React.js+%7C+Bootstrap+%7C+Tailwind;Editor+AudioVisual;Bem+Vindo!+:%29" />
 </div>
 
 ---
@@ -32,9 +32,9 @@
 
 ```txt
 🎓 Estudante de Engenharia de Software
-⚡ Desenvolvedor Full-Stack focado em Back-end
-🤖 Apaixonado por IoT e Automação
+⚡ Desenvolvedor Full-Stack
+🤖 Entusiasta por IoT e Automação
 🎬 Editor AudioVisual
 🚀 Criando projetos modernos para web
-📚 Estudando Node.js, Laravel, APIs e Banco de Dados
+📚 Estudando Node.js, Python, APIs e Banco de Dados
 💡 Objetivo: empreender com tecnologia e transporte
