@@ -37,7 +37,7 @@
 🎬 Editor AudioVisual
 🚀 Criando projetos modernos para web
 📚 Estudando Node.js, Python, APIs e Banco de Dados
-💡 Objetivo: empreender com tecnologia e transporte
+💡 Objetivo: empreender com tecnologia
 ```
 
 ---
@@ -59,19 +59,6 @@
 </a>
 
 </p>
-
----
-
-# 📂 Diretórios Rápidos
-
-```bash
-📁 Portfolio
- ┣ 📂 Front-End Projects
- ┣ 📂 Back-End APIs
- ┣ 📂 IoT Integrations
- ┣ 📂 AudioVisual Projects
- ┗ 📂 Automation Scripts
-```
 
 ---
 
@@ -110,9 +97,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
-<img width="10"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
 <img width="10"/>
 
@@ -135,16 +119,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35"/>
-<img width="10"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
 <img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
 
 </div>
 
