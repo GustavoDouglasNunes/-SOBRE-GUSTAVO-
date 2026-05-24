@@ -103,8 +103,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
-
+<img src="https://skillicons.dev/icons?i=tailwind" height="35"/>
 </div>
 
 ---
