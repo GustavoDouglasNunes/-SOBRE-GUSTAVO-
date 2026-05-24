@@ -1,77 +1,118 @@
-# Hi 👋, I'm Gustavo Douglas
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-🚀 **Software Engineer | HTML5 CSS3 JavaScript &python**  
-🇧🇷 Brasileiro
+<h1 align="center">
+  Olá, Meu nome é Gustavo Douglas👋
+</h1>
 
----
+<h3 align="center">
+  Software Engineer • Back-end Developer
+</h3>
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/GustavoDouglasNunes">
-    <img src="https://img.shields.io/badge/GitHub-GUSTAVODOUGLASNUNES-181717?style=for-the-badge&logo=github" />
-  </a>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gustavo-nunes-a34133233/">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a> 
+<p align="center">
+  Bem-vindo ao meu perfil 🚀
 </p>
 
----
-
-## 🧠 What I do
-
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🔐 Secure APIs & authentication
-- 🤖 Automation & integrations
-- 📊 Dashboards & analytics
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=0000FF&size=30&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-end;Node.js+%7C+Laravel+%7C+React;Bem+Vindo!+:%29" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350px" />
+</div>
 
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
+## 🌐 Redes Sociais
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  Quer entrar em contato comigo? ⤵️
 </p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/railtonoficial/)
 
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62992512120)
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+# 🚀 Minha Stack
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" />
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🚌 Sistema de Gerenciamento de Transporte
+Sistema completo para gestão de transporte escolar com rotas, motoristas e relatórios.
+
+### 💼 Plataforma de Estágios
+Sistema para conexão entre estudantes e empresas.
+
+### 🔐 API REST com Node.js
+API RESTful com autenticação JWT e PostgreSQL.
+
+---
+
+# 🌎 Idiomas
+
+- 🇧🇷 Português — Nativo
+- 🇺🇸 Inglês — Intermediário
+
+---
+
+<div align="center">
+
+### ✨ Obrigado por visitar meu perfil ✨
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
