@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack;Entusiasta+em+Automação+IoT+e+Sistemas+Web;Python+%7C+React.js+%7C+Bootstrap+%7C+TailwindCSS;Editor+AudioVisual;Bem+Vindo!+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-End;Entusiasta+em+Automação+IoT+e+Sistemas+Web;Python+%7C+React.js+%7C+Bootstrap+%7C+TailwindCSS;Editor+AudioVisual;Bem+Vindo!+:%29" />
 </div>
 
 ---
